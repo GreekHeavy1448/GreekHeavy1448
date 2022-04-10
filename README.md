@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/GreekHeavy1448">
-    <img src="https://discord.c99.nl/widget/theme-4/961276436939948053.png"/>
+    <img src="https://discord.c99.nl/widget/theme-1/961276436939948053.png"/>
      </a>
   </p>
   

@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/GreekHeavy1448">
+    <p align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/961276436939948053?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
      </a>
   </p>

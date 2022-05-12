@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/GreekHeavy1448">
-    <img src="https://discord.c99.nl/widget/theme-1/961276436939948053.png"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/961276436939948053?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
      </a>
   </p>
   

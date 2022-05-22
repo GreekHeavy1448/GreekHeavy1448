@@ -4,7 +4,7 @@
                     -@                    Root@KazakosOG
                    .##@                   -----------------
                   .####@                  Username: KazakosOG
-                  @#####@                 Discord Name: KazakosOG_V2#9999
+                  @#####@                 Discord Name: KazakosOG.lua#9999
                 . *######@                Discord: https://discord.gg/SOON!
                .##@o@#####@               Website: https://greekheavy1448.github.io/
               /############@            
